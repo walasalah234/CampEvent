@@ -9,13 +9,13 @@ import {
 import Constants from '../constants'
 
 export default LoginHeader = () => {
-    return (
-        <View style={styles.header}>
-            <Text style={styles.title}>
-                CompEvent
+  return (
+    <View style={styles.header}>
+      <Text style={styles.title}>
+        CampEvent
             </Text>
-        </View>
-    )
+    </View>
+  )
 }
 
 
